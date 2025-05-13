@@ -3,7 +3,7 @@
  * 通过注释和函数，帮助你熟悉常用操作流程
  */
 
-// 1. 克隆仓库（Clone）
+// 1. 克隆仓库（Clone
 // git clone https://github.com/username/repository.git
 
 function cloneRepository(repoUrl) {
